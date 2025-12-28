@@ -21,7 +21,6 @@ le calcul d’indicateurs descriptifs,
 la visualisation graphique.
 4. Analyse descriptive du cours de l’action
 Le notebook met en évidence une forte dynamique haussière du cours de l’action NVIDIA sur la période étudiée. Les graphiques de prix montrent :
-
 une tendance de long terme clairement positive,
 des phases de correction ponctuelles,
 une volatilité non négligeable, caractéristique des valeurs technologiques.
