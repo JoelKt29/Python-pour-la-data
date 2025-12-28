@@ -1,4 +1,4 @@
-# Python-pour-la-data-science, Prédiction Nvidia
+# Python pour la data-science, Prédiction Nvidia
 1. Introduction
 L’objectif est d’exploiter des données de marché afin d’étudier l’évolution du cours de l’action, d’en extraire des indicateurs pertinents et d’en proposer une interprétation économique et financière.
 
