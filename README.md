@@ -38,13 +38,7 @@ Les rendements mettent en évidence des périodes de forte performance, mais ég
 6. Discussion économique
 Les résultats observés sont cohérents avec le contexte économique et sectoriel de NVIDIA. La montée en puissance de l’intelligence artificielle et des besoins en calcul intensif a renforcé les anticipations de croissance, ce qui se reflète dans la valorisation boursière.
 
-Cependant, cette valorisation élevée s’accompagne de risques :
-
-dépendance à l’innovation technologique,
-cyclicité du secteur,
-sensibilité aux conditions macroéconomiques et financières.
-7. Conclusion
-Ce rapport, basé sur le notebook fourni, met en évidence la performance exceptionnelle de l’action NVIDIA tout en soulignant les risques associés à une telle dynamique. L’approche par notebook permet de combiner rigueur quantitative, transparence du code et interprétation économique.
+Cependant, cette valorisation élevée s’accompagne de risques : dépendance à l’innovation technologique, cyclicité du secteur, sensibilité aux conditions macroéconomiques et financières.
 
 Des prolongements naturels de ce travail pourraient inclure :
 
