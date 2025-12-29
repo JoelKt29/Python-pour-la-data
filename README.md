@@ -2,7 +2,7 @@
 
 Ce projet a été réalisé par Joël Khayat, Kenan Darfilali et Massil Zouaghi dans le cadre du cours Python pour la Data Science, dispensé par Lino Galiana. Ce travail s'inscrit dans une démarche d'application des outils de manipulation de données et de Machine Learning à des problématiques réelles des marchés financiers.
 
-Carte d'identité du projet
+
 1/ Choix du sujet et motivation
 
 Le choix de porter notre analyse sur le secteur boursier, et plus spécifiquement sur NVIDIA, est né de la convergence entre nos intérêts personnels pour les nouvelles technologies et les enjeux économiques actuels. En tant que passionnés de tech et de culture geek, nous avons été les témoins directs de l'hégémonie de NVIDIA, passant de leader des cartes graphiques pour le jeu vidéo à pilier indispensable de l'infrastructure mondiale de l'intelligence artificielle.
