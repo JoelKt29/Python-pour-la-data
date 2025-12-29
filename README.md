@@ -25,5 +25,3 @@ Plusieurs indicateurs sont calculés et analysés dans le notebook, notamment : 
 Les résultats observés sont cohérents avec le contexte économique et sectoriel de NVIDIA. La montée en puissance de l’intelligence artificielle et des besoins en calcul intensif a renforcé les anticipations de croissance, ce qui se reflète dans la valorisation boursière.
 
 Cependant, cette valorisation élevée s’accompagne de risques : dépendance à l’innovation technologique, cyclicité du secteur, sensibilité aux conditions macroéconomiques et financières.
-
-Des prolongements naturels de ce travail pourraient inclure : une comparaison avec d’autres entreprises du secteur, l’intégration d’indicateurs fondamentaux, ou la mise en place de modèles prédictifs plus avancés.
