@@ -4,8 +4,8 @@
  
 
 ## Cadre du projet
-Projet réalisé dans le cadre de l’UE **“Python pour la Data Science” (2A, ENSAE Paris)**.  
-Le rendu principal est un **notebook** reproductible qui couvre : collecte/stockage des données, analyse descriptive, puis modélisation (prévision). 
+Projet réalisé dans le cadre pédagogique du cours de Python pour Data Science de 2A à l’ENSAE, encadré par Lino Galiana.
+Membres du groupe : 
 
 ---
 
