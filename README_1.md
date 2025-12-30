@@ -11,19 +11,34 @@ Cette ascension fulgurante nous a poussés à vouloir l’étudier de plus près
 > Comment quantifier la montée en puissance de NVIDIA et, dans cette optique, prévoir le volume de transactions du titre à l’instant t+1 à partir des informations disponibles jusqu’à t ?
 
 ## Méthodologie et plan 
+Pour ce faire, nous avons suivi un plan en trois parties :
 
+- Récupération des données
+- Visualisation des données
+- Modélisation
 
-Dans ce contexte, un objet de marché particulièrement intéressant est le **volume de transactions** : il reflète l’intensité de l’activité (arrivées d’information, annonces, stress, rotations sectorielles, etc.). L’idée du projet est donc d’étudier le cours NVDA **à travers l’activité** (volume), en la replaçant dans son environnement :
-- **Marché global** (SPY),  
-- **Tech** (QQQ),  
-- **Semi-conducteurs** (SOXX),  
-- **Régime de risque** via le **VIX**,  
-- **Conditions financières** via le **taux US 10 ans**. 
+L’idée du projet étant d’étudier l’action NVDA à travers son activité de marché (volume), nous avons naturellement récupéré ses données de prix et de volume via **Yahoo Finance**.
 
-Enfin, le projet met un point d’attention sur la **reproductibilité** : stockage local des données brutes/traitées, pipeline rejouable, et évaluation cohérente en séries temporelles. 
+Mais l’enjeu est aussi de replacer NVDA dans son environnement de marché. Nous avons donc importé plusieurs séries de référence afin d’enrichir l’analyse :
 
-## Structure du projet et conseils de navigation 
+- Marché global** : SPY
+- **Technologie** : QQQ
+- **Semi-conducteurs** : SOXX
+- **Régime de risque** : VIX
+- **Conditions financières** : taux US à 10 ans
 
+Enfin, le projet met un point d’attention sur la reproductibilité : stockage local des données brutes et traitées, pipeline rejouable, et évaluation cohérente en séries temporelles.
+
+## Structure du projet et conseils de navigation
+
+Le dépôt s’articule autour d’un notebook principal : **`Main_NoteBook.ipynb`**.
+
+Le dossier **`data/`** contient une sauvegarde des données utilisées au moment du dépôt. En effet, si les politiques d’accès aux données ou les formats changent, cela peut casser le projet ; nous avons donc conservé un **backup**.
+
+* **`data/processed/`** : bases nettoyées et préparées
+* **`data/raw/`** : bases brutes (telles que téléchargées)
+
+- 
 ## Prérequis 
 ---
 
