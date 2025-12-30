@@ -1,4 +1,4 @@
-# Projet Python (2A ENSAE) - Comment NVIDIA a explosé entre 2015 et 2024 : Étude statistique et modélisation de sa performance boursière par des méthodes de prévision.
+# Projet Python (2A ENSAE) - Comment NVIDIA a performé entre 2015 et 2024 : Étude statistique et modélisation de sa performance boursière par des méthodes de prévision.
 
 ## Cadre du projet
 Projet réalisé dans le cadre pédagogique du cours de Python pour Data Science de 2A à l’ENSAE, encadré par Lino Galiana.
