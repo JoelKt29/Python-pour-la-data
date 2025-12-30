@@ -10,6 +10,8 @@ Sur la dernière décennie, NVIDIA (NVDA) est devenue une entreprise centrale da
 Cette ascension fulgurante nous a poussés à vouloir l’étudier de plus près afin de mieux comprendre comment elle s’est opérée. Pour ce faire, nous avons choisi ce sujet et formulé la problématique suivante : 
 **Comment quantifier la montée en puissance de NVIDIA et, dans cette optique, prévoir le volume de transactions du titre à l’instant t+1 à partir des informations disponibles jusqu’à t ?**
 
+Donc l’objectif principal de ce projet est d’exploiter des techniques de **data science sur séries temporelles financières** pour analyser la montée en puissance boursière de NVIDIA (NVDA) et construire un modèle capable de **prévoir le volume de transactions à un jour d’horizon** (t+1) à partir d’informations disponibles au jour (t). En combinant des variables propres à NVDA (rendements, volatilité réalisée, inertie du volume) avec des variables de contexte (ETFs marché/tech/secteur, VIX et taux US 10 ans), nous cherchons à distinguer ce qui relève de dynamiques spécifiques au titre de ce qui s’explique par des facteurs plus systémiques. Ce travail vise ainsi à fournir une lecture reproductible et quantitative de l’évolution de NVDA, tout en évaluant rigoureusement la capacité prédictive de ces signaux dans un cadre temporel réaliste.
+
 ## Méthodologie et plan 
 Pour ce faire, nous avons suivi un plan en trois parties :
 
