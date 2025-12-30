@@ -45,12 +45,11 @@ Avant de commencer, nous vous conseillons de suivre les étapes suivantes. Il es
     python -m pip install virtualenv
     python -m virtualenv .venv
   
-# Activation de l'environnement virtuel
+* Activation de l'environnement virtuel
     source .venv/bin/activate
-`
-git clone https://github.com/mass2330/python_ds_film
-cd python_ds_film
 
+git clone https://github.com/JoelKt29/Python-pour-la-data
+cd Python-pour-la-data
 * Pour installer les dépendance dans son environnement
 pip install -r requirements.txt
 
