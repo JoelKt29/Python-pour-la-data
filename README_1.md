@@ -29,7 +29,7 @@ Mais l’enjeu est aussi de replacer NVDA dans son environnement de marché. Nou
 
 Enfin, le projet met un point d’attention sur la reproductibilité : stockage local des données brutes et traitées, pipeline rejouable, et évaluation cohérente en séries temporelles.
 
-## Structure du projet et conseils de navigation
+## Structure du projet
 
 Le dépôt s’articule autour d’un notebook principal : **`Main_NoteBook.ipynb`**.
 
@@ -38,12 +38,17 @@ Le dossier **`data/`** contient une sauvegarde des données utilisées au moment
 * **`data/processed/`** : bases nettoyées et préparées
 * **`data/raw/`** : bases brutes (telles que téléchargées)
 
-- 
-## Prérequis 
----
+## Prérequis et conseils utilisation
 
-## Choix et motivation du sujet
-- **Finance de marché (concret)** : le volume est une variable directement liée à l’activité, aux chocs d’information et aux régimes de risque — c’est un bon terrain pour appliquer une démarche “data science” sur des séries financières.
-- **NVIDIA est un cas d’étude riche** : croissance marquée, phases de stress, forte sensibilité au secteur semi-conducteurs et à la tech, et actualité structurée par l’IA. 
-- **Dimension “macro + géopolitique”** : intégrer VIX et taux 10 ans permet de contextualiser les régimes de marché, et l’arrière-plan des contrôles export / tensions techno rappelle que la dynamique d’un actif tech n’est pas seulement “micro-entreprise”. 
-- **Objectif pédagogique (Python data science)** : le projet mobilise proprement les briques du cours (collecte, nettoyage, EDA, modélisation, évaluation temporelle, reproductibilité) avec un cas réaliste. 
+#Installation de l'environnement virtuel (code à appliquer sur le terminal)
+    python -m pip install virtualenv
+    python -m virtualenv .venv
+# Activation de l'environnement virtuel
+    source .venv/bin/activate
+`
+git clone https://github.com/mass2330/python_ds_film
+cd python_ds_film
+
+# Pour installer les dépendance dans son environnement
+
+pip install -r requirements.txt
