@@ -39,16 +39,36 @@ Le dossier **`data/`** contient une sauvegarde des données utilisées au moment
 * **`data/raw/`** : bases brutes (telles que téléchargées)
 
 ## Prérequis et conseils utilisation
+Avant de commencer, nous vous conseillons de suivre les étapes suivantes. Il est conseillé également d'appliquer le code sur SSPCloud avec un environnement avec GPU pour une optimalité dans les calculs et la modélisation.
 
-#Installation de l'environnement virtuel (code à appliquer sur le terminal)
+* Installation de l'environnement virtuel (code à appliquer sur le terminal)
     python -m pip install virtualenv
     python -m virtualenv .venv
+  
 # Activation de l'environnement virtuel
     source .venv/bin/activate
 `
 git clone https://github.com/mass2330/python_ds_film
 cd python_ds_film
 
-# Pour installer les dépendance dans son environnement
-
+* Pour installer les dépendance dans son environnement
 pip install -r requirements.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Voici les packages importants à télécharger en amont  
