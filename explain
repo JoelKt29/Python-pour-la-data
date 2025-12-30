@@ -1,2 +1,7 @@
+data : contient toutes les données utilisées pour le projet (en mode point de sauvegarde) 
+sinon on peut aussi installer les data depuis internet  C'est juste un point de save
+Ya 2 sous dossiers qui sont 
 - raw -> c'est les bruts 
 - processed -> c'est les traités 
+
+Il faut pas oublier dinstaller tous les packages importants pour les imports 
