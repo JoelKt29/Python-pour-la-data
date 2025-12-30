@@ -8,7 +8,7 @@ Membres du groupe : Kenan Darfilali, Joël Khayat et Massil Zouaghi.
 Sur la dernière décennie, NVIDIA (NVDA) est devenue une entreprise centrale dans l’écosystème des semi-conducteurs, notamment via les GPU utilisés en data centers et pour des usages liés à l’IA. Cette montée en puissance s’est reflétée en bourse : le titre a connu des phases de croissance rapides, mais aussi des périodes de forte volatilité.
 
 Cette ascension fulgurante nous a poussés à vouloir l’étudier de plus près afin de mieux comprendre comment elle s’est opérée. Pour ce faire, nous avons choisi ce sujet et formulé la problématique suivante : 
-> Comment quantifier la montée en puissance de NVIDIA et, dans cette optique, prévoir le volume de transactions du titre à l’instant t+1 à partir des informations disponibles jusqu’à t ?
+**Comment quantifier la montée en puissance de NVIDIA et, dans cette optique, prévoir le volume de transactions du titre à l’instant t+1 à partir des informations disponibles jusqu’à t ?**
 
 ## Méthodologie et plan 
 Pour ce faire, nous avons suivi un plan en trois parties :
