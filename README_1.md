@@ -41,33 +41,16 @@ Le dossier **`data/`** contient une sauvegarde des données utilisées au moment
 ## Prérequis et conseils utilisation
 Avant de commencer, nous vous conseillons de suivre les étapes suivantes. Il est conseillé également d'appliquer le code sur SSPCloud avec un environnement avec GPU pour une optimalité dans les calculs et la modélisation.
 
-* Installation de l'environnement virtuel (code à appliquer sur le terminal)
-    python -m pip install virtualenv
-    python -m virtualenv .venv
-  
-* Activation de l'environnement virtuel
-    source .venv/bin/activate
+```bash
+# Installation de l'environnement virtuel (à exécuter dans le terminal)
+python -m pip install virtualenv
+python -m virtualenv .venv
+
+# Activation de l'environnement virtuel
+source .venv/bin/activate
 
 git clone https://github.com/JoelKt29/Python-pour-la-data
 cd Python-pour-la-data
-* Pour installer les dépendance dans son environnement
+
+# Installation des dépendances
 pip install -r requirements.txt
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Voici les packages importants à télécharger en amont  
