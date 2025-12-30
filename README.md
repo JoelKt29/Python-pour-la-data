@@ -1,5 +1,17 @@
 # Python pour la data-science: Prédiction Nvidia
 
+MODIFIER : 
+- cadre
+- Sujet
+-   Introduction et context rapide : catch moment 
+-   Problématisation du projet : qst problématsée concrète
+-   Reexplication de la qst -> preshot un plan
+-   Plan global
+-   Dire que ya le guide de lecture (sommaire global dans le fichier main) 
+- choix sujet et motivation
+
+- redirection vers rEADME 2 (technique)
+
 Ce projet a été réalisé par Joël Khayat, Kenan Darfilali et Massil Zouaghi dans le cadre du cours Python pour la Data Science, dispensé par Lino Galiana. Ce travail s'inscrit dans une démarche d'application des outils de manipulation de données et de Machine Learning à des problématiques réelles des marchés financiers.
 
 
